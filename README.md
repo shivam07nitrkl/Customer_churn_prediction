@@ -1,7 +1,7 @@
 # Customer_churn_prediction
 * Aim of this project is to implement machine learning model to predict customer churn of telecom company.
 
-* Out of 29 features present in dataset, after normalizing and cleaning data, I've selected 15 features using RandomForestClassifier with ensemble learning.
+* Out of 29 features present in dataset, after normalizing and cleaning data, I've selected 11 features using RandomForestClassifier with ensemble learning.
 
 * Used 80/20 training and testing data for model development.
 
